@@ -1,2 +1,0 @@
-# AngularMD
-Angular MD Example
